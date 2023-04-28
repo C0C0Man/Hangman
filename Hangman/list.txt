@@ -1,0 +1,22 @@
+HTML
+    Create HTML structure
+    Give project a title name
+
+CSS
+    Set background and define font-color= "white"
+    Set Container background color and margin
+    Define others color, size, padding etc
+
+
+JS
+    Create Code for hangman game 
+    generate random word
+
+Push app to public repo on github
+
+Things needed
+Use SVG for hangman pole
+generate a random worddisplay word in UI with correct letters
+Display wrong lettersshow notification when a letter gets selected twice
+show popup on win or lose
+play again button to reset game
